@@ -36,3 +36,9 @@
     border-radius: 25px;
     transition: background-color 0.3s, color 0.3s;
 }
+
+.navLinks a:hover,
+.navLinks a.active{
+    background-color: #3b82f6;
+    color: #ffffff;
+}
